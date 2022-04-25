@@ -1,6 +1,7 @@
 My personal Chromebook terminal setup, feel free to use for your own machine.
 
 Background color - #282A36 (Dracula background)
+
 Cursor color - #FF79C6 (Dracula pink)
 
 Prompt - [Synth Shell](https://github.com/andresgongora/synth-shell)
